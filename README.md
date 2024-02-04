@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Fabric Example Mod with Quilt Mappings
 
 ## Setup
 
@@ -6,4 +6,4 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is under the same licence as the original [FabricMC Template](https://github.com/FabricMC/fabric-example-mod).
